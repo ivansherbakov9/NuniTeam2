@@ -1,11 +1,3 @@
-﻿using System;
-using NuniTeam2;
-
-class Program
-{
-    newclass nc = new newclass();
-    static void Main()
-    {
-        Console.WriteLine("Hello!");
-    }
-}
+﻿
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
