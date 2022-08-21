@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\nuniteam\\NuniTeam2\\NuniTeam2.csproj": {}
+    "C:\\Программы\\NuniTeam2\\NuniTeam2.csproj": {}
   },
   "projects": {
-    "D:\\nuniteam\\NuniTeam2\\NuniTeam2.csproj": {
+    "C:\\Программы\\NuniTeam2\\NuniTeam2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nuniteam\\NuniTeam2\\NuniTeam2.csproj",
+        "projectUniqueName": "C:\\Программы\\NuniTeam2\\NuniTeam2.csproj",
         "projectName": "NuniTeam2",
-        "projectPath": "D:\\nuniteam\\NuniTeam2\\NuniTeam2.csproj",
-        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "D:\\nuniteam\\NuniTeam2\\obj\\",
+        "projectPath": "C:\\Программы\\NuniTeam2\\NuniTeam2.csproj",
+        "packagesPath": "C:\\Users\\DenisPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Программы\\NuniTeam2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DenisPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
