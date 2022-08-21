@@ -10,7 +10,7 @@ namespace NuniTeam2
             keyMenu = Console.ReadKey();
             if(keyMenu.Key == ConsoleKey.RightArrow)
             {
-                
+
             }
             if(keyMenu.Key == ConsoleKey.LeftArrow)
             {
