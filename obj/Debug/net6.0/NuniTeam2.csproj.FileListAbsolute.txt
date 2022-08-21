@@ -13,3 +13,11 @@ D:\nuniteam\NuniTeam2\obj\Debug\net6.0\refint\NuniTeam2.dll
 D:\nuniteam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.pdb
 D:\nuniteam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.genruntimeconfig.cache
 D:\nuniteam\NuniTeam2\obj\Debug\net6.0\ref\NuniTeam2.dll
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.csproj.AssemblyReference.cache
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.AssemblyInfoInputs.cache
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.AssemblyInfo.cs
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.csproj.CoreCompileInputs.cache
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.dll
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\refint\NuniTeam2.dll
+C:\NuniTeam\NuniTeam2\obj\Debug\net6.0\NuniTeam2.pdb
