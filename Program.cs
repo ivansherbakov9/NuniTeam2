@@ -6,5 +6,7 @@ class Program
     {
         MapDrawer _mapDrawer = new MapDrawer();
         GenerateApples _generateApples = new GenerateApples();
+
+        
     }
 }           

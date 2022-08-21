@@ -9,13 +9,9 @@ namespace NuniTeam2
     {
         private MapDrawer _mapDrawer;
 
-        public GameManager(int area){
-            _mapDrawer = new MapDrawer();
-        }
-
-        public void Update(){
-
-        }
+        private Snake _snake;
+        private GenerateApples _generateApples;
+        
         
         
     }

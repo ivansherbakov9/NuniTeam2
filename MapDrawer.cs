@@ -9,6 +9,8 @@ namespace NuniTeam2
     public class MapDrawer
     {
 
+        
+
         //private char[,] map = new char[16, 16];
         static string [,] map = {{"* "},{"* "},{"* "},{"* "},{"* "},{"* \n"},
                                   {"* "},{"  "},{"  "},{"  "},{"  "},{"* \n"},
@@ -19,6 +21,7 @@ namespace NuniTeam2
         
         static public void MapClear()
         {
+            Console.Clear();
             foreach(string j in map)
             {
                 Console.Write(j);
@@ -53,7 +56,7 @@ namespace NuniTeam2
         }
         public MapDrawer()
         {
-            
+            MapClear();
         }
     }
 }
