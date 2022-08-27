@@ -10,8 +10,6 @@ namespace NuniTeam2
         private MapDrawer _mapDrawer;
         private GenerateApples _generateApples;
 
-
-
         public void Start(){
             _mapDrawer = new MapDrawer();
             _generateApples = new GenerateApples();
