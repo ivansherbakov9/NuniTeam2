@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NuniTeam\\NuniTeam2\\NuniTeam2.csproj",
+      "projectUniqueName": "C:\\NuniTeam\\Snake\\NuniTeam2.csproj",
       "projectName": "NuniTeam2",
-      "projectPath": "C:\\NuniTeam\\NuniTeam2\\NuniTeam2.csproj",
+      "projectPath": "C:\\NuniTeam\\Snake\\NuniTeam2.csproj",
       "packagesPath": "C:\\Users\\Bek\\.nuget\\packages\\",
-      "outputPath": "C:\\NuniTeam\\NuniTeam2\\obj\\",
+      "outputPath": "C:\\NuniTeam\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

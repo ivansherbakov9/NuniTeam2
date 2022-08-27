@@ -8,13 +8,21 @@ namespace NuniTeam2
     public class GameManager
     {
         private MapDrawer _mapDrawer;
+        private GenerateApples _generateApples;
 
-        public GameManager(int area){
+
+
+        public void Start(){
             _mapDrawer = new MapDrawer();
+            _generateApples = new GenerateApples();
+            while (true)
+            {
+                Update();
+            }
         }
 
-        public void Update(){
-
+        private void Update(){
+            _mapDrawer.Drow();
         }
         
         
